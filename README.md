@@ -8,6 +8,7 @@ contra de forma regresiva.
 
 ### Visuals
 
+![imagen cuenta](https://user-images.githubusercontent.com/55455333/67263811-118bf980-f45e-11e9-881b-37fc2cdcf2a2.png)
 
 ### Installation
 La instalacion de este programa es bastante sencilla, solamente ocupamos instalar Android Studio y vamos a codificar el programa y es necesario un 
